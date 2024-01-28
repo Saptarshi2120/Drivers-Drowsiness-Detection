@@ -1,6 +1,7 @@
-# Drivers-Drowsiness-Detection using neural networks
+# Drivers Drowsiness Detection using neural networks
 
 *Overview*
+
 This project implements a driver drowsiness detection system using transfer learning with the Inception V3 neural network architecture. The system is designed to analyze facial features from real-time camera data to identify signs of driver fatigue or drowsiness. The model has been trained on a specific dataset to recognize patterns associated with drowsiness, enabling it to provide timely alerts to the driver.
 
 Features
